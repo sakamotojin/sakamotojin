@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/sakamotojin/sakamotojin/blob/master/Assests/final.jpg">
+<img src="https://github.com/sakamotojin/sakamotojin/blob/master/Assests/final.png">
 
 <p align = "center"><b>
 <br> Young Software Engineer . Explroring The Industry . Learning </b>
