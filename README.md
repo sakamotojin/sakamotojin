@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <img src="https://github.com/sakamotojin/sakamotojin/blob/main/Assests/final.png">
 
 <p align = "center"><b>
-<br> Young Software Engineer . Explroring The Industry . Learning </b>
+<br> Young Software Engineer . Exploring The Industry . Learning </b>
 </p>
 <p align = "center">
-Interested in Game Devlopment , System Sofwares and Computer Networking and  ?? New Ideas
+Interested in Game Devlopment , System Softwares and Computer Networking and  ?? New Ideas
 <br>
  Passionately Curious, Weird ....Want To Do A Lot Of Things 
 </p>
 <p align = "center">
-<I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other. :D ” </I> 
+<I>ï¿½There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other. :D ï¿½ </I> 
   <p align = "right"><I> - It starts with a step ?? </I><p>
 </p>
 
