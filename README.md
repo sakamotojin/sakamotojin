@@ -29,7 +29,7 @@ Modeling the World Around Us With Equations And Code
 
 <p align = "center">
 <I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> 
-  <p align = "right"><I> - It starts with a step 😊 </I><p>
+  <p align = "center"><I> - It starts with a step 😊 </I><p>
 </p>
 
 ---
