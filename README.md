@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=nikita9604">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nikita9604?color=yellow&label=%20Stars%20">
+  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=sakamotojin">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sakamotojin?color=yellow&label=%20Stars%20">
 </p>
 
 
@@ -41,8 +41,8 @@ Interested in Game Devlopment , System Softwares and Computer Networking and  ??
 <br>
 
 <p align = "center">
-<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=nikita9604&theme=nightowl&show_icons=true" />
-<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita9604&layout=compact" />
+<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sakamotojin&theme=nightowl&show_icons=true" />
+<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakamotojin&layout=compact" />
 </p>
 
 ---
